@@ -29,7 +29,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@ajkachnic/not",
+  "name": "@ajkachnic/and",
   "author": "Andrew Kachnic",
   "module": "dist/not.esm.js",
   "devDependencies": {
