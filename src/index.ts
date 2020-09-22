@@ -1,0 +1,1 @@
+export default (a: boolean, b: boolean): boolean => a && b;
