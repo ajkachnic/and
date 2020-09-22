@@ -1,6 +1,6 @@
 # not
 
-the long awaited sequal to [not](https://github.com/ajkachnic)
+the long awaited sequel to [not](https://github.com/ajkachnic)
 
 
 ## usage
