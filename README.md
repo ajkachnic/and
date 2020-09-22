@@ -1,4 +1,4 @@
-# not
+# and
 
 the long awaited sequel to [not](https://github.com/ajkachnic)
 
