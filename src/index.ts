@@ -1,1 +1,1 @@
-export default <T = boolean>(a: T, b: T): T => a && b;
+export default <T = boolean, P = T>(a: T, b: P): boolean => a && b;
